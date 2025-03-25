@@ -6,12 +6,12 @@
 
 
 <hr>
-- 🔭 I’m currently working as SDE.</br>
+-😄 Pronouns: HE </br>
+-🔭 I’m currently working as SDE.</br>
 -🌱 I’m currently learning Kafka and microservices.</br>
 -💬 Ask me about JAVA, JS, SPRING BOOT, DATABASE, BLOCKCHAIN.</br>
-- 📫 How to reach me: Email (ahers247@gmail.com). </br> 
-- 😄 Pronouns: HE
-- ⚡ Fun fact: Nothing 😄 
+-📫 How to reach me: Email (ahers247@gmail.com). </br> 
+-⚡ Fun fact:  😄 
 <hr />
 ### Skills:
 

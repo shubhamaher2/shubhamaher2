@@ -13,7 +13,8 @@
 -📫 How to reach me: Email (ahers247@gmail.com). </br> 
 -⚡ Fun fact:  😄 
 <hr />
-### Skills:
+
+## Skills:
 
 <img src='https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white' height='35'/> <img src='https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff' height='35'/> <img src='https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white' height='35'/> 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" height="35"/>

@@ -6,7 +6,7 @@
 
 
 <hr>
--😄 Pronouns: HE </br>
+-😄 Pronouns: He </br>
 -🔭 I’m currently working as SDE.</br>
 -🌱 I’m currently learning Kafka and microservices.</br>
 -💬 Ask me about JAVA, JS, SPRING BOOT, DATABASE, BLOCKCHAIN.</br>
